@@ -1,6 +1,27 @@
 ![Imagel](https://raw.githubusercontent.com/rajeshrinet/pyross/master/examples/others/banner.jpg)
 
 
+
+# pyross\_SI2R
+
+Este es el producto final del trabajo del Equipo de Modelado Predictivo: un
+fork de la librería open source PyRoss que contiene el modelo principal que
+desarrollamos y los modelos matemáticos adicionales. En ambos casos proveemos
+ejemplos de uso en código Python en forma de Jupyter notebooks, y que están
+descriptos en nuestro reporte final "Descripción de productos: resumen de
+modelos matemáticos disponibles".
+
+Este fork se encuentra disponible para clonar y las instrucciones para instalar
+la librería se encuentran más abajo (instrucciones generales de PyRoss).
+
+Por razones de ética en el uso de datos sensibles de salud, y dado que la
+intención del proyecto es que los desarrollos sean abiertos, el código que
+ponemos a disposición no accede a ningún dato que provenga de la base
+originalmente utilizada.
+
+
+
+
 ## PyRoss: inference, forecasts, and optimised control for epidemiological models in Python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajeshrinet/pyross/master?filepath=binder) ![CI](https://github.com/rajeshrinet/pyross/workflows/CI/badge.svg) ![Notebooks](https://github.com/rajeshrinet/pyross/workflows/Notebooks/badge.svg)  [![PyPI](https://img.shields.io/pypi/v/pyross.svg)](https://pypi.python.org/pypi/pyross) [![Python Version](https://img.shields.io/pypi/pyversions/pyross)](https://pypi.org/project/pyross) [![Downloads](https://pepy.tech/badge/pyross)](https://pepy.tech/project/pyross)  ![stars](https://img.shields.io/github/stars/rajeshrinet/pyross) ![forks](https://img.shields.io/github/forks/rajeshrinet/pyross) ![License](https://img.shields.io/github/license/rajeshrinet/pyross) 
 
 
