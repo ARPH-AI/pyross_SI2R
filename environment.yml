@@ -1,0 +1,23 @@
+name: pyross
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - cython
+  - numpy
+  - matplotlib
+  - jupyter
+  - scipy
+  - pytest 
+  - pytest-cov
+  - sympy
+  - ipython
+  - nbconvert
+  - dynesty
+  - emcee
+  - nlopt
+  - pip
+  - pip:
+    - cma
+    - dill
+    - pathos
