@@ -1,7 +1,5 @@
 ![Imagel](https://raw.githubusercontent.com/rajeshrinet/pyross/master/examples/others/banner.jpg)
 
-
-
 # pyross\_SI2R
 
 Este es el producto final del trabajo del Equipo de Modelado Predictivo: un
@@ -19,8 +17,10 @@ intención del proyecto es que los desarrollos sean abiertos, el código que
 ponemos a disposición no accede a ningún dato que provenga de la base
 originalmente utilizada.
 
-
-
+## Integrantes
+- Laje, Rodrigo (Universidad Nacional de Quilmes y CONICET)
+- Spiousas, Ignacio (Universidad Nacional de Quilmes y CONICET)
+- Millán, Julieta (Universidad Nacional de La Plata)
 
 ## PyRoss: inference, forecasts, and optimised control for epidemiological models in Python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajeshrinet/pyross/master?filepath=binder) ![CI](https://github.com/rajeshrinet/pyross/workflows/CI/badge.svg) ![Notebooks](https://github.com/rajeshrinet/pyross/workflows/Notebooks/badge.svg)  [![PyPI](https://img.shields.io/pypi/v/pyross.svg)](https://pypi.python.org/pypi/pyross) [![Python Version](https://img.shields.io/pypi/pyversions/pyross)](https://pypi.org/project/pyross) [![Downloads](https://pepy.tech/badge/pyross)](https://pepy.tech/project/pyross)  ![stars](https://img.shields.io/github/stars/rajeshrinet/pyross) ![forks](https://img.shields.io/github/forks/rajeshrinet/pyross) ![License](https://img.shields.io/github/license/rajeshrinet/pyross) 
 
